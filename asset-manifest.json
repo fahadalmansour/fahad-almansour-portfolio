@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fahad-almansour-portfolio/static/css/main.e2ef561a.chunk.css",
+    "main.js": "/fahad-almansour-portfolio/static/js/main.134d0f5d.chunk.js",
+    "main.js.map": "/fahad-almansour-portfolio/static/js/main.134d0f5d.chunk.js.map",
+    "runtime-main.js": "/fahad-almansour-portfolio/static/js/runtime-main.e99f39d3.js",
+    "runtime-main.js.map": "/fahad-almansour-portfolio/static/js/runtime-main.e99f39d3.js.map",
+    "static/js/2.bc718853.chunk.js": "/fahad-almansour-portfolio/static/js/2.bc718853.chunk.js",
+    "static/js/2.bc718853.chunk.js.map": "/fahad-almansour-portfolio/static/js/2.bc718853.chunk.js.map",
+    "index.html": "/fahad-almansour-portfolio/index.html",
+    "precache-manifest.143321c2605c824857729303b3600c28.js": "/fahad-almansour-portfolio/precache-manifest.143321c2605c824857729303b3600c28.js",
+    "service-worker.js": "/fahad-almansour-portfolio/service-worker.js",
+    "static/css/main.e2ef561a.chunk.css.map": "/fahad-almansour-portfolio/static/css/main.e2ef561a.chunk.css.map",
+    "static/js/2.bc718853.chunk.js.LICENSE.txt": "/fahad-almansour-portfolio/static/js/2.bc718853.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e99f39d3.js",
+    "static/js/2.bc718853.chunk.js",
+    "static/css/main.e2ef561a.chunk.css",
+    "static/js/main.134d0f5d.chunk.js"
+  ]
+}
